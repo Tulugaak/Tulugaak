@@ -1,6 +1,4 @@
-Welcome!
-
-![:treevisitors](https://count.getloli.com/@treevisitors?name=treevisitors&theme=booru-touhoulat&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)
+Welcome, ![:treevisitors](https://count.getloli.com/@treevisitors?name=treevisitors&theme=booru-touhoulat&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto) th / rd / nd / st visitor!
 
 programming student by day, touhou fan by night
 <!--

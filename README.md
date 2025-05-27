@@ -2,7 +2,7 @@
 
 Welcome!
 
-programming student by day, touhou fan by night
+I'm a programming student by day and a touhou fan by night
 <!--
 **Tulugaak/Tulugaak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

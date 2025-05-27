@@ -1,6 +1,8 @@
-## Hi there 👋
+Hi there 👋
 
 ![:treevisitors](https://count.getloli.com/@treevisitors?name=treevisitors&theme=booru-touhoulat&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)
+
+programming student by day, touhou fan by night
 <!--
 **Tulugaak/Tulugaak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

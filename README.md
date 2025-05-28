@@ -6,6 +6,8 @@ th / rd / nd / st visitor!
 
 I know a bit of C++ and only use tech that lasts and only software that, when possible, is open source. Corporations should not be trusted with anyone's data.
 
+中文ok
+
 *programming student by day, touhou fan by night*
 
 ---

@@ -41,6 +41,5 @@ I know a bit of C++.
     <img src="https://img.shields.io/badge/My_Xwitter-blue?style=for-the-badge&logo=x&logoColor=white" alt="Twitter Badge"/></a>
   <a href="mailto:astronaut898@proton.me">
     <img src="https://img.shields.io/badge/Email_Me-purple?style=for-the-badge&logo=protonmail&logoColor=white" alt="Proton Badge"/></a>
-</div>
 
 ---

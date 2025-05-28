@@ -4,7 +4,7 @@ th / rd / nd / st visitor!
 ---
 **✅ About Me**
 
-I know a bit of C++.
+I know a bit of C++ and only use tech that lasts and only software that, if possible, is open source.
 
 *programming student by day, touhou fan by night*
 

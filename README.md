@@ -1,5 +1,5 @@
-Welcome, ![:treevisitors](https://count.getloli.com/@treevisitors?name=treevisitors&theme=booru-touhoulat&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto) th 
-/ rd / nd / st visitor!
+Welcome,<br/><br/> ![:treevisitors](https://count.getloli.com/@treevisitors?name=treevisitors&theme=booru-touhoulat&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)<br/><br/>
+th / rd / nd / st visitor!
 
 ---
 **✅ About Me**

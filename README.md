@@ -25,12 +25,19 @@ I know a bit of C++ and only use tech that lasts and only software that, when po
 
 <div id="badges">
   <a href="https://lenovo.com/">
-    <img src="https://img.shields.io/badge/Thinkpad_P52-CF3434?style=for-the-badge&logo=lenovo&logoColor=white" alt="Arch Badge"/></a>
+    <img src="https://img.shields.io/badge/Thinkpad_P52-CF3434?style=for-the-badge&logo=lenovo&logoColor=white" alt="Lenovo Badge"/></a>
   <a href="https://intel.com/">
-    <img src="https://img.shields.io/badge/i7_8750H-blue?style=for-the-badge&logo=intel&logoColor=white" alt="VSCodium Badge"/></a>
+    <img src="https://img.shields.io/badge/i7_8750H-blue?style=for-the-badge&logo=intel&logoColor=white" alt="Intel Badge"/></a>
   <a href="https://nvidia.com/">
-    <img src="https://img.shields.io/badge/Quadro_P1000-green?style=for-the-badge&logo=nvidia&logoColor=white" alt="VSCodium Badge"/></a>
-</div>
+    <img src="https://img.shields.io/badge/Quadro_P1000-green?style=for-the-badge&logo=nvidia&logoColor=white" alt="NVIDIA Badge"/></a>
+</div><br/>
+
+<div id="badges">
+  <a href="https://apple.com/">
+    <img src="https://img.shields.io/badge/iPhone_SE_1st_Gen-4B4B4B?style=for-the-badge&logo=apple&logoColor=white" alt="Apple Badge"/></a>
+  <a href="https://apple.com/">
+    <img src="https://img.shields.io/badge/iPad_Mini_2-4B4B4B?style=for-the-badge&logo=apple&logoColor=white" alt="Apple Badge"/></a>
+</div><br/>
 
 ---
 

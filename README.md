@@ -4,7 +4,7 @@ th / rd / nd / st visitor!
 ---
 **✅ About Me**
 
-I know a bit of C++ and only use tech that lasts and only software that, when possible, is open source.
+I know a bit of C++ and only use tech that lasts and only software that, when possible, is open source. Corporations should not be trusted with anyone's data.
 
 *programming student by day, touhou fan by night*
 

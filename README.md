@@ -23,6 +23,8 @@ I know a bit of C++ and only use tech that lasts and only software that, when po
     <img src="https://img.shields.io/badge/Arch_Linux-4B4B4B?style=for-the-badge&logo=archlinux&logoColor=blue" alt="Arch Badge"/></a>
   <a href="https://vscodium.com/">
     <img src="https://img.shields.io/badge/VSCodium-4B4B4B?style=for-the-badge&logo=vscodium&logoColor=blue" alt="VSCodium Badge"/></a>
+  <a href="https://firefox.com/">
+    <img src="https://img.shields.io/badge/Hardened_Firefox-orange?style=for-the-badge&logo=firefox&logoColor=white" alt="VSCodium Badge"/></a>
 </div><br/>
 
 <div id="badges">

@@ -12,7 +12,7 @@ I know a bit of C++ and only use tech that lasts and only software that, when po
 
 ---
 
-![Tulugaak's GitHub stats](https://github-readme-stats.vercel.app/api?username=tulugaak&show_icons=true&theme=material-palenight)
+![Tulugaak's GitHub stats](https://github-readme-stats.vercel.app/api?username=tulugaak&show_icons=true&theme=midnight-purple)
 
 ---
 

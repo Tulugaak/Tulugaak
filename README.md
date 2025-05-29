@@ -4,7 +4,7 @@ th / rd / nd / st visitor!
 ---
 **✅ About Me**
 
-I know a bit of C++ and only use tech that lasts and only software that, when possible, is open source. Corporations should not be trusted with anyone's data.
+I know C++ and will be learning Java soon. I only use tech that lasts and only software that, when possible, is open source. Corporations should not be trusted with anyone's data.
 
 中文ok，ちょっと日本語も知る
 

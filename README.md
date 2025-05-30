@@ -21,10 +21,12 @@ I know C++ and will start learning Java in school soon. I only use tech that las
 <div id="badges">
   <a href="https://archlinux.org/">
     <img src="https://img.shields.io/badge/Arch_Linux-4B4B4B?style=for-the-badge&logo=archlinux&logoColor=blue" alt="Arch Badge"/></a>
+  <a href="https://kde.org/">
+    <img src="https://img.shields.io/badge/KDE_Plasma-blue?style=for-the-badge&logo=kde&logoColor=white" alt="Arch Badge"/></a>
   <a href="https://vscodium.com/">
     <img src="https://img.shields.io/badge/VSCodium-4B4B4B?style=for-the-badge&logo=vscodium&logoColor=blue" alt="VSCodium Badge"/></a>
   <a href="https://firefox.com/">
-    <img src="https://img.shields.io/badge/Hardened_Firefox-orange?style=for-the-badge&logo=firefox&logoColor=white" alt="VSCodium Badge"/></a>
+    <img src="https://img.shields.io/badge/Firefox_with_Securefox_user.js-orange?style=for-the-badge&logo=firefox&logoColor=white" alt="VSCodium Badge"/></a>
 </div><br/>
 
 <div id="badges">
@@ -35,6 +37,16 @@ I know C++ and will start learning Java in school soon. I only use tech that las
   <a href="https://nvidia.com/">
     <img src="https://img.shields.io/badge/Quadro_P1000-green?style=for-the-badge&logo=nvidia&logoColor=white" alt="NVIDIA Badge"/></a>
 </div><br/>
+
+<div id="badges">
+  <a href="https://hp.com/">
+    <img src="https://img.shields.io/badge/Compaq_Elite_8300_SFF-blue?style=for-the-badge&logo=hp&logoColor=white" alt="HP Badge"/></a>
+  <a href="https://intel.com/">
+    <img src="https://img.shields.io/badge/i5_3570-blue?style=for-the-badge&logo=intel&logoColor=white" alt="Intel Badge"/></a>
+  <a href="https://nvidia.com/">
+    <img src="https://img.shields.io/badge/GTX_750_Ti-green?style=for-the-badge&logo=nvidia&logoColor=white" alt="NVIDIA Badge"/></a>
+</div><br/>
+
 
 <div id="badges">
   <a href="https://apple.com/">

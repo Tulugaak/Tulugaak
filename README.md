@@ -6,7 +6,7 @@ th / rd / nd / st visitor!
 
 I know C++ and will start learning Java in school soon. I only use tech that lasts and only software that, when possible, is open source. Corporations should not be trusted with anyone's data.
 
-中文ok，ちょっと日本語も知る
+中文ok，ちょっと日本語も知っている
 
 *programming student by day, touhou fan by night*
 

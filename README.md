@@ -57,7 +57,7 @@ I know C++ and will start learning Java in school soon. I only use tech that las
 
 ---
 
-**👁️‍🗨️ Find Me**
+**👁️‍🗨️ Find Me / 联系信息 / 連絡先**
 
 <div id="badges">
   <a href="https://x.com/tulugaak1">

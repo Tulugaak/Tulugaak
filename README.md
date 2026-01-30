@@ -1,4 +1,4 @@
-歡迎/ようこそ,<br/><br/> ![:treevisitors](https://count.getloli.com/@grayscale?name=grayscale&theme=booru-yuyuyui&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)<br/><br/>
+歡迎/ようこそ/Welcome,<br/><br/> ![:treevisitors](https://count.getloli.com/@grayscale?name=grayscale&theme=booru-yuyuyui&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)<br/><br/>
 th / rd / nd / st visitor!
 
 ---
@@ -41,8 +41,6 @@ I can code in C++ and know a bit of Java. I only use tech that lasts and only so
 <div id="badges">
   <a href="https://apple.com/">
     <img src="https://img.shields.io/badge/iPhone_SE_1-4B4B4B?style=for-the-badge&logo=apple&logoColor=white" alt="Apple Badge"/></a>
-  <a href="https://apple.com/">
-    <img src="https://img.shields.io/badge/iPad_Mini_2-4B4B4B?style=for-the-badge&logo=apple&logoColor=white" alt="Apple Badge"/></a>
 </div><br/>
 
 ---

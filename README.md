@@ -4,15 +4,11 @@ th / rd / nd / st visitor!
 ---
 **自我介紹/自己紹介**
 
-I can code in C++ and know a bit of Java. I only use tech that lasts and only software that, when possible, is open source. Corporations should not be trusted with anyone's data.
+I know a bit of C++ and Java. I only use tech that lasts and only software that, when possible, is open source. Corporations should not be trusted with anyone's data.
 
 我會一點C++和Java
 
 英語和中文流利，ちょっと日本語も知っている
-
----
-
-![Tulugaak's GitHub stats](https://github-readme-stats.vercel.app/api?username=tulugaak&show_icons=true&theme=midnight-purple)
 
 ---
 

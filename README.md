@@ -4,8 +4,8 @@ th / rd / nd / st visitor!
 ---
 **自我介紹/自己紹介**
 
-I know a bit of C++ and Java. I only use tech that lasts and only software that, when possible, is open source. Corporations should not be trusted with anyone's data.
-
+A computer can never be held accountable, therefore a computer must never make a management decision.
+ 
 我會一點C++和Java
 
 英語和中文流利，ちょっと日本語も知っている

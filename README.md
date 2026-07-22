@@ -4,7 +4,7 @@ th / rd / nd / st visitor!
 ---
 **自我介紹/自己紹介**
 
-A computer can never be held accountable, therefore a computer must never make a management decision.
+"A computer can never be held accountable, therefore a computer must never make a management decision." -1970s IBM Computing Handbook
  
 我會一點C++和Java
 
